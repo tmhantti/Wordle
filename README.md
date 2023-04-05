@@ -3,8 +3,8 @@
   
 
 <h5>Game mechanics:</h5>
-Player can type letters which are displayed in the screen (grid boxes), and delete inserted letters that by pressing backspace.
-Player makes a guess by pressing enter (if all letters are typed in).  
+<p>Player can enter letters by pressing corresponding keyboard button. Letters are displayed in the screen (grid boxes). By pressing backspace button inserted letters are removed one by one.
+Player makes a guess by pressing enter (if all letters are typed in).<p>  
 
 Background colours of boxes containing letters change according to the players' guess:
 - grey - guessed word does not contain inserted letter at all.
